@@ -30,6 +30,19 @@
 
 ---
 
+## 🖼️ معاينة سريعة للأداة
+
+<p align="center">
+  <img src="./images/dashboard.png" width="45%" alt="واجهة التحكم الرئيسية"/>
+  <img src="./images/diagram.png" width="45%" alt="مخطط عمل المكرر"/>
+</p>
+
+<p align="center">
+  <sub>الشكل 1: واجهة التحكم على 192.168.4.1 – الشكل 2: مخطط الاتصال (راوتر → ESP32 → شبكة Ibrahim Esp)</sub>
+</p>
+
+---
+
 ## 🚀 روابط سريعة
 
 | الملف | المحتوى |
