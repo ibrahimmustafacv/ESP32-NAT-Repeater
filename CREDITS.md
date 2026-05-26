@@ -10,8 +10,8 @@
 
 - **الاسم:** Ibrahim Mustafa
 - **GitHub:** [ibrahimmustafacv](https://github.com/ibrahimmustafacv)
-- **Telegram:** [ibrahimmustafacv](https://t.me/ibrahimmustafacv)
-- **البريد الإلكتروني:** (يمكنك إضافة بريدك هنا)
+- **Telegram:** [ibrahimmustafacv](https://t.me/ibrahimmusttafa?startapp=true)
+- **Other projects** [ibrahimmustafa](https://ibrahimmustafacv.github.io/)
 
 ---
 
