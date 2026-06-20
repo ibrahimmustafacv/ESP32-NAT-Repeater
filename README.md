@@ -1,3 +1,5 @@
+![Logo](./Logo.png)
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=ESP32+NAT+Repeater;Ibrahim+Esp+Repeater" alt="Typing SVG" />
 </p>
